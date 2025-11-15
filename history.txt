@@ -1,0 +1,123 @@
+    1  ls
+    2  -al
+    3  ls -al
+    4  cd git
+    5  cd documents
+    6  mkdir gigi
+    7  cd gigi
+    8  ls
+    9  cd ..
+   10  cd gigi
+   11  ls
+   12  touch readme.md
+   13  start
+   14  start
+   15  touch text.exit
+   16  ls
+   17  rm gigi
+   18  start
+   19  g
+   20  ls readme.md
+   21  git config -- global user.name "Gillian"
+   22  git config -- global user.name "grimaldogillianpunzalan-aa1"
+   23  git config -- global user.name "grimaldogillianpunzalan-aa1"
+   24  git config -- global user.name "grimaldogillianpunzalan-aa1
+   25  git config -- global user.name "grimaldogillianpunzalan-aa1
+   26  git config -- global user.name
+   27  git config -- global user.name "grimaldogillianpunzalan-aa1
+   28  git config  --global user.name "grimaldogillianpunzalan-aa1"
+   29  git config --global user.name "grimaldogillianpunzalan-aa1"
+   30  git config --global user.name "grimaldogillianpunzalan-aa1"
+   31  git config -- global user.name "grimaldogillianpunzalan-aa1
+   32  git config  --global user.name "grimaldogillianpunzalan-aa1"
+   33  git config --global user.name "grimaldogillianpunzalan-aa1"
+   34  git config --global user.name "grimaldogillianpunzalan-aa1"
+   35  git config --global user.name "grimaldogillianpunzalan-aa1"
+   36  git config -- global user.name
+   37  git config --global user.name "grimaldogillianpunzalan-aa1"
+   38  git config --global user.name "grimaldogillianpunzalan-aa1"
+   39  git config --global user.name "grimaldogillianpunzalan-aa1"
+   40  git config -- global user.email "grimaldogillian.punzalan@olivarezcollege.edu,ph"
+   41  git config
+   42  git config user.name
+   43  git config user.name "grimaldogillianpunzalan-aa1"
+   44  ls
+   45  ls -al
+   46  mkdir gigi
+   47  cd git
+   48  mkdir gigi
+   49  cd gigi
+   50  cd gig
+   51  cd documents
+   52  cd ..
+   53  git status
+   54  ls
+   55  -al
+   56  ls -al
+   57  git status
+   58  mkdir gigi
+   59  cd gigi
+   60  cd gigi
+   61  cd ..
+   62  cd ..
+   63  ls
+   64  ls -al
+   65  cd
+   66  cd
+   67  cd gigi
+   68  cd git
+   69  cd .gigi
+   70  cd documents
+   71  cd document
+   72  cd gigi
+   73  cd gigi
+   74  cd gigi
+   75  mkdir gigi
+   76  mkdir gigi
+   77  cd gigi
+   78  cd gigi
+   79  ls
+   80  ls -al
+   81  cd gigi
+   82  cd git
+   83  cd gigi
+   84  cd
+   85  cd
+   86  cd
+   87  cd
+   88  cd ..
+   89  cd ..
+   90  cd ..
+   91  cd ..
+   92  ls
+   93  ls
+   94  ls -al
+   95  ls
+   96  cd
+   97  documents
+   98  cd documents
+   99  cd
+  100  cd documents
+  101  cd gigi
+  102  git status
+  103  git remote add origin https://github.com/grimaldogillianpunzalan-aa1/gigi.git
+  104  git push -u origin main
+  105  git remote add origin https://github.com/grimaldogillianpunzalan-aa1/gigi.git
+  106  git push -u origin main
+  107  git init
+  108  git add .
+  109  git commmit -m "first commit"
+  110  git commit -m "first commit"
+  111  git branch -M main
+  112  git remote add origin https://github.com/grimaldogillianpunzalan-aa1/gigi.git
+  113  git push
+  114  git push -u origin main
+  115  git push -u origin main
+  116  git add .
+  117  git status
+  118  git commit -m "second commit"
+  119  git push
+  120  history
+
+
+
